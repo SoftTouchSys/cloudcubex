@@ -1,0 +1,9 @@
+[07-May-2021 11:12:40 UTC] PHP Notice:  Undefined variable: message in /home/cloudcubex/public_html/inc/sendEmail.php on line 31
+[07-May-2021 11:12:48 UTC] PHP Notice:  Undefined variable: message in /home/cloudcubex/public_html/inc/sendEmail.php on line 31
+[07-May-2021 11:12:48 UTC] PHP Notice:  Undefined variable: error in /home/cloudcubex/public_html/inc/sendEmail.php on line 47
+[17-May-2021 09:25:59 UTC] PHP Notice:  Undefined variable: message in /home/cloudcubex/public_html/inc/sendEmail.php on line 31
+[17-May-2021 09:25:59 UTC] PHP Notice:  Undefined variable: error in /home/cloudcubex/public_html/inc/sendEmail.php on line 47
+[09-Sep-2021 15:35:51 UTC] PHP Warning:  Undefined variable $message in /home/cloudcubex/public_html/inc/sendEmail.php on line 31
+[09-Sep-2021 15:35:51 UTC] PHP Warning:  Undefined variable $error in /home/cloudcubex/public_html/inc/sendEmail.php on line 47
+[15-May-2022 12:55:58 UTC] PHP Warning:  Undefined variable $message in /home/cloudcubex/public_html/inc/sendEmail.php on line 31
+[15-May-2022 12:55:58 UTC] PHP Warning:  Undefined variable $message in /home/cloudcubex/public_html/inc/sendEmail.php on line 31
